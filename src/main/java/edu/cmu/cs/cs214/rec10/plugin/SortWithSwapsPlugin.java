@@ -5,6 +5,7 @@ import edu.cmu.cs.cs214.rec10.framework.core.GamePlugin;
 
 import java.util.Random;
 
+// Plugin that does sort with swapping
 public class SortWithSwapsPlugin implements GamePlugin {
     private int ONE = 1;
     private int TEN = 10;
